@@ -1,0 +1,25 @@
+body{
+    background-image: url(/img/car.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container{
+    height: auto;
+    width: 500px;;
+   
+   /* background-image: radial-gradient(blue, orange,red);*/
+  /* background-image: conic-gradient(blue,orange, red);*/
+  color: white;
+  margin-left: 30%;
+ 
+  
+}
+.image{
+      margin-left: 30%;
+}
+.content{
+     background-image: linear-gradient(to left, blue, orange, red);
+     opacity: 0.7;
+}
